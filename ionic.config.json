@@ -1,0 +1,7 @@
+{
+  "name": "bb-rules-kit",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
